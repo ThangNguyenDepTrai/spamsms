@@ -11,7 +11,7 @@
 * Vào Google Cloud Nhập Từng Lệnh.
 * sudo apt install git
 * sudo apt install python
-* git clone https://github.com/nguyenthebao2009/SpamSMS
+* git clone https://github.com/ThangNguyenDepTrai/spamsms
 * cd SpamSMS
 * python spamsms.py
 NguyenDucThang (debugger) x Nguyen The Bao (developer)
